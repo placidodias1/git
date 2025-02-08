@@ -1,7 +1,11 @@
 oi
 lorem ipsum
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
+=======
+teste
+>>>>>>> nova
 =======
 teste
 >>>>>>> nova
