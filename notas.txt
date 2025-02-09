@@ -1,11 +1,12 @@
 oi
 lorem ipsum
-<<<<<<< HEAD
-<<<<<<< HEAD
+teste
+fkldfkdlfkldfk
+sdsdd
+dsdsdsdsd
+sdsd
+
+
+dklkdsld
+lorem ipsum
 master
-=======
-teste
->>>>>>> nova
-=======
-teste
->>>>>>> nova
